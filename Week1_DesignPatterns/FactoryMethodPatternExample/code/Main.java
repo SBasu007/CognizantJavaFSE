@@ -1,3 +1,4 @@
+package CognizantJavaFSE.Week1_DesignPatterns.FactoryMethodPatternExample.code;
 public class Main {
     public static void main(String[] args) {
         DocumentFactory wordFactory = new WordDocumentFactory();

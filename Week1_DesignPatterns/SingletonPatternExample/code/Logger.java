@@ -1,3 +1,4 @@
+package CognizantJavaFSE.Week1_DesignPatterns.SingletonPatternExample.code;
 
 public class Logger {
     private static Logger instance;
