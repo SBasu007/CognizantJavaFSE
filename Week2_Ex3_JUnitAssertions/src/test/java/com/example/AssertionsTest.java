@@ -1,4 +1,4 @@
-package com.example;
+package CognizantJavaFSE.Week2_Ex3_JUnitAssertions.src.test.java.com.example;
 
 import org.junit.Test;
 import static org.junit.Assert.*;
